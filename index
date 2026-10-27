@@ -1,0 +1,1431 @@
+<!DOCTYPE html>
+
+<html class="dark" dir="rtl" lang="ar"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0" name="viewport"/><meta content="web_standard" name="shell-type"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/><link href="https://fonts.googleapis.com/css2?family=Cairo:wght@600;700;800&amp;family=Cinzel:wght@600;700;800&amp;family=Tajawal:wght@400;500;700&amp;display=swap" rel="stylesheet"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com"></script><script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"inverse-on-surface":"#2c303a","on-secondary-fixed-variant":"#004e5c","on-error":"#690005","surface-container":"#1c1f29","surface":"#0f131c","secondary-fixed-dim":"#4cd7f6","surface-variant":"#31353f","secondary-container":"#03b5d3","primary-fixed-dim":"#ffb95f","on-tertiary-fixed-variant":"#930013","secondary":"#4cd7f6","on-secondary-container":"#00424e","on-tertiary":"#68000a","surface-tint":"#ffb95f","on-secondary":"#003640","tertiary-fixed-dim":"#ffb3ad","outline":"#a08e7a","on-tertiary-container":"#8d0012","error":"#ffb4ab","surface-dim":"#0f131c","inverse-primary":"#855300","tertiary-container":"#ff938c","tertiary":"#ffbcb7","on-secondary-fixed":"#001f26","on-surface":"#dfe2ef","primary-container":"#f59e0b","error-container":"#93000a","outline-variant":"#534434","background":"#0f131c","on-surface-variant":"#d8c3ad","on-background":"#dfe2ef","surface-container-highest":"#31353f","on-primary-fixed":"#2a1700","surface-container-low":"#181b25","on-primary-container":"#613b00","tertiary-fixed":"#ffdad7","surface-container-lowest":"#0a0e17","inverse-surface":"#dfe2ef","secondary-fixed":"#acedff","surface-bright":"#353943","on-error-container":"#ffdad6","primary":"#ffc174","on-primary-fixed-variant":"#653e00","surface-container-high":"#262a34","primary-fixed":"#ffddb8","on-tertiary-fixed":"#410004","on-primary":"#472a00"},"borderRadius":{"DEFAULT":"0.125rem","lg":"0.25rem","xl":"0.5rem","full":"0.75rem"},"spacing":{"margin-mobile":"1rem","gutter-mobile":"0.75rem","space-md":"1rem","space-xl":"2.5rem","space-lg":"1.5rem","gutter":"1rem","space-sm":"0.5rem","margin":"2rem","space-xs":"0.25rem"},"fontFamily":{"headline-lg":["Cinzel"],"label-md":["Cairo"],"title-md":["Cairo"],"label-sm":["Cairo"],"headline-xl-mobile":["Cinzel"],"title-lg":["Cairo"],"headline-md":["Cinzel"],"headline-sm":["Cinzel"],"headline-xl":["Cinzel"],"body-md":["Tajawal"],"body-sm":["Tajawal"],"label-lg":["Cairo"],"headline-lg-mobile":["Cinzel"],"title-sm":["Cairo"],"body-lg":["Tajawal"]},"fontSize":{"headline-lg":["32px",{"lineHeight":"40px","letterSpacing":"0.04em","fontWeight":"700"}],"label-md":["12px",{"lineHeight":"16px","letterSpacing":"0.02em","fontWeight":"600"}],"title-md":["16px",{"lineHeight":"22px","fontWeight":"700"}],"label-sm":["10px",{"lineHeight":"14px","letterSpacing":"0.05em","fontWeight":"700"}],"headline-xl-mobile":["28px",{"lineHeight":"36px","letterSpacing":"0.04em","fontWeight":"800"}],"title-lg":["20px",{"lineHeight":"28px","fontWeight":"700"}],"headline-md":["22px",{"lineHeight":"28px","letterSpacing":"0.02em","fontWeight":"700"}],"headline-sm":["18px",{"lineHeight":"24px","letterSpacing":"0.02em","fontWeight":"600"}],"headline-xl":["40px",{"lineHeight":"48px","letterSpacing":"0.05em","fontWeight":"800"}],"body-md":["14px",{"lineHeight":"20px","fontWeight":"400"}],"body-sm":["12px",{"lineHeight":"16px","fontWeight":"400"}],"label-lg":["14px",{"lineHeight":"18px","letterSpacing":"0.03em","fontWeight":"700"}],"headline-lg-mobile":["24px",{"lineHeight":"32px","letterSpacing":"0.03em","fontWeight":"700"}],"title-sm":["14px",{"lineHeight":"20px","fontWeight":"600"}],"body-lg":["16px",{"lineHeight":"24px","fontWeight":"500"}]}}}};</script></head><body class="bg-background font-body-md text-on-surface antialiased selection:bg-primary selection:text-on-primary min-h-screen"><header class="fixed top-0 w-full z-50 bg-surface/85 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="h-20 w-full px-margin flex items-center justify-between"><div class="flex items-center gap-space-md"><img alt="Knights Alliance Crest" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4yMQ5xF9lYBvuJlkhsQjyjb1m-wyYtZ_-wIi2OcQZxCq3f3wTt3_3-427pOd-N7uodhO8ZDFwH3B6vHt5QvDzhTcqZxROdclfGasagF1wWwvxDfp0DIqyqLrirlM9UuW4gj-3Sh3H0lR2g5O7Yf6vqvtQq8gCFRJIRs2jvkL9J4WVD3JSUP_E7_sc5SwD4K1LW5tDOXq_55tIjOzWPU5wQ6KF1iGuS7YH9iftY3_eXzOtHhvOtyK1"/><div class="flex flex-col"><span class="font-title-lg text-title-lg text-primary tracking-wide">KNIGHTS | ملك البحار</span><span class="font-label-sm text-label-sm text-secondary-fixed-dim uppercase tracking-widest">تحالف الفرسان • WePlay Elite Fleet</span></div></div><nav class="hidden xl:flex items-center gap-space-sm bg-surface-container-low px-space-sm py-space-xs rounded-full" data-active-classes="bg-primary-container text-on-primary-container font-title-sm text-title-sm px-space-md py-space-xs rounded-xl shadow-[0_0_12px_rgba(245,158,11,0.3)]"><a aria-current="page" class="transition-all duration-200 bg-primary-container text-on-primary-container font-title-sm text-title-sm px-space-md py-space-xs rounded-xl shadow-[0_0_12px_rgba(245,158,11,0.3)]" data-path="home" href="#">الرئيسية</a><a class="font-title-sm text-title-sm px-space-md py-space-xs rounded-xl text-on-surface-variant hover:bg-surface-container-high hover:text-on-surface transition-all duration-200" data-path="leaders" href="#">قادة التحالف</a><a class="font-title-sm text-title-sm px-space-md py-space-xs rounded-xl text-on-surface-variant hover:bg-surface-container-high hover:text-on-surface transition-all duration-200" data-path="members-roster" href="#">قائمة القوة والأعضاء</a><a class="font-title-sm text-title-sm px-space-md py-space-xs rounded-xl text-on-surface-variant hover:bg-surface-container-high hover:text-on-surface transition-all duration-200" data-path="war-analytics" href="#">إحصائيات المعارك</a><a class="font-title-sm text-title-sm px-space-md py-space-xs rounded-xl text-on-surface-variant hover:bg-surface-container-high hover:text-on-surface transition-all duration-200" data-path="alliance-rules" href="#">قوانين التحالف</a><a class="font-title-sm text-title-sm px-space-md py-space-xs rounded-xl text-on-surface-variant hover:bg-surface-container-high hover:text-on-surface transition-all duration-200" data-path="recruitment" href="#">الانضمام</a></nav><div class="flex items-center gap-space-md"><div class="hidden sm:flex items-center gap-space-xs bg-surface-container-high px-space-md py-space-xs rounded-xl shadow-[0_0_16px_-2px_rgba(6,182,212,0.15)]"><span class="material-symbols-outlined text-secondary text-[20px]">swords</span><div class="flex flex-col text-right"><span class="font-label-sm text-label-sm text-on-surface-variant">إجمالي القوة</span><span class="font-title-sm text-title-sm text-primary font-bold">+21.4B</span></div></div><div class="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span class="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main class="w-full pt-20 bg-background min-h-[calc(100vh-80px)]"><div class="flex flex-col w-full text-on-surface">
+<!-- 1. HERO SHOWCASE SECTION -->
+<section class="relative w-full overflow-hidden pb-space-xl pt-space-lg">
+<!-- Atmospheric Underwater Ember Glows -->
+<div class="absolute -top-24 right-1/4 w-96 h-96 rounded-full bg-primary/10 blur-3xl pointer-events-none"></div>
+<div class="absolute top-1/2 left-10 w-80 h-80 rounded-full bg-secondary/10 blur-3xl pointer-events-none"></div>
+<div class="w-full px-margin flex flex-col items-center text-center relative z-10">
+<!-- Alliance Emblem Floating Banner -->
+<div class="relative group mb-space-md">
+<div class="absolute -inset-4 bg-gradient-to-r from-primary/30 via-secondary/20 to-primary/30 rounded-full blur-2xl opacity-75 group-hover:opacity-100 transition duration-700"></div>
+<div class="relative w-36 h-36 md:w-44 md:h-44 rounded-full bg-surface-container-low flex items-center justify-center shadow-2xl p-2">
+<img alt="KNIGHTS Alliance Crest" class="w-full h-full object-contain filter drop-shadow-[0_0_20px_rgba(245,158,11,0.6)]" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4yMQ5xF9lYBvuJlkhsQjyjb1m-wyYtZ_-wIi2OcQZxCq3f3wTt3_3-427pOd-N7uodhO8ZDFwH3B6vHt5QvDzhTcqZxROdclfGasagF1wWwvxDfp0DIqyqLrirlM9UuW4gj-3Sh3H0lR2g5O7Yf6vqvtQq8gCFRJIRs2jvkL9J4WVD3JSUP_E7_sc5SwD4K1LW5tDOXq_55tIjOzWPU5wQ6KF1iGuS7YH9iftY3_eXzOtHhvOtyK1"/>
+</div>
+</div>
+<!-- Super Title & War Banner -->
+<div class="inline-flex items-center gap-space-xs bg-surface-container-high px-space-md py-space-xs rounded-full mb-space-sm shadow-md">
+<span class="w-2 h-2 rounded-full bg-secondary animate-ping"></span>
+<span class="font-label-sm text-label-sm text-secondary-fixed-dim uppercase tracking-widest">خادم النخبة WePlay • ملك البحار الرسمي</span>
+</div>
+<h1 class="font-headline-xl text-headline-xl text-primary font-extrabold max-w-4xl tracking-tight mb-space-xs drop-shadow-[0_2px_12px_rgba(245,158,11,0.3)]">
+        تحالف KNIGHTS | أسياد ملك البحار ⚔️🌊
+      </h1>
+<p class="font-body-lg text-body-lg text-on-surface-variant max-w-2xl mb-space-lg">
+        الهيبة، السيطرة، والقوة المطلقة في أعماق المحيط. صرح الفرسان الحاكم لتحالفات السيرفر ببطولة لا تُقهر وولاء عسكري مستميت.
+      </p>
+<!-- Action Buttons -->
+<div class="flex flex-wrap items-center justify-center gap-space-md mb-space-xl">
+<a class="inline-flex items-center gap-space-xs bg-primary-container text-on-primary-container px-space-lg py-space-sm rounded-xl font-title-sm text-title-sm font-bold shadow-[0_0_20px_rgba(245,158,11,0.4)] hover:brightness-110 active:scale-95 transition-all" href="#roster-section">
+<span class="material-symbols-outlined text-[20px]">shield</span>
+<span>استعراض قائمة الأبطال</span>
+</a>
+<a class="inline-flex items-center gap-space-xs bg-surface-container-high text-on-surface px-space-lg py-space-sm rounded-xl font-title-sm text-title-sm font-bold hover:bg-surface-container-highest shadow-md transition-all" href="#recruitment-section">
+<span class="material-symbols-outlined text-secondary text-[20px]">swords</span>
+<span>طلب الانضمام للتحالف</span>
+</a>
+</div>
+<!-- Quick KPI Stats Bento -->
+<div class="w-full grid grid-cols-2 lg:grid-cols-4 gap-space-md">
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col items-center justify-center relative overflow-hidden shadow-lg group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest flex items-center justify-center text-primary mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">local_fire_department</span>
+</div>
+<span class="font-headline-md text-headline-md text-primary font-black">+21.4B</span>
+<span class="font-title-sm text-title-sm text-on-surface font-semibold">إجمالي القوة القتالية</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant mt-0.5">أكثر من 21 مليار قوة هجومية</span>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col items-center justify-center relative overflow-hidden shadow-lg group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest flex items-center justify-center text-secondary mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">military_tech</span>
+</div>
+<span class="font-headline-md text-headline-md text-secondary font-black">المرتبة #1</span>
+<span class="font-title-sm text-title-sm text-on-surface font-semibold">رتبة التحالف</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant mt-0.5">التحالف السيادي المسيطر</span>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col items-center justify-center relative overflow-hidden shadow-lg group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest flex items-center justify-center text-primary-fixed mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">groups_3</span>
+</div>
+<span class="font-headline-md text-headline-md text-primary font-black">46 فارس</span>
+<span class="font-title-sm text-title-sm text-on-surface font-semibold">فرسان الأسطول</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant mt-0.5">قوة بشرية عالية التأثير</span>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col items-center justify-center relative overflow-hidden shadow-lg group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest flex items-center justify-center text-secondary mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">anchor</span>
+</div>
+<span class="font-headline-md text-headline-md text-secondary font-black">WePlay</span>
+<span class="font-title-sm text-title-sm text-on-surface font-semibold">ساحة المعارك</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant mt-0.5">ملك البحار - King of the Seas</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. مجلس القيادة (ALLIANCE HIGH COUNCIL / LEADERS PODIUM) -->
+<section class="w-full px-margin py-space-xl bg-surface-container-lowest/60 relative">
+<div class="w-full flex flex-col mb-space-lg text-right">
+<div class="flex items-center gap-space-xs text-primary mb-1">
+<span class="material-symbols-outlined text-[22px]">workspace_premium</span>
+<span class="font-label-lg text-label-lg font-bold">مجلس القيادة الحربية</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface font-black">قادة وأمراء تحالف KNIGHTS</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">صفوة القادة المشرفين على حركة الأسطول والحروب الملكية الكبرى في السيرفر</p>
+</div>
+<!-- Leader & Vice Leaders Spotlight -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-space-md mb-space-lg">
+<!-- General Leader -->
+<div class="bg-surface-container-low rounded-2xl p-space-md flex flex-col items-center text-center relative overflow-hidden shadow-xl group hover:shadow-2xl transition-all">
+<div class="absolute top-3 right-3 bg-primary-container text-on-primary-container px-space-xs py-0.5 rounded-full font-label-sm text-label-sm font-bold flex items-center gap-1 shadow-md">
+<span class="material-symbols-outlined text-[14px]">crown</span>
+<span>القائد العام</span>
+</div>
+<div class="relative w-24 h-24 my-space-sm">
+<div class="absolute -inset-1 rounded-full bg-gradient-to-tr from-primary via-secondary to-primary animate-spin opacity-70" style="animation-duration: 8s;"></div>
+<div class="relative w-full h-full rounded-full overflow-hidden bg-surface-container p-1">
+<img class="w-full h-full object-cover rounded-full" data-alt="Intense dramatic warrior commander avatar wearing ornate battle suit with flame aura and royal gold crest in dark gaming anime style" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCj_I3KF7iElNLGxL_GjDv7ZVAKKvXNBRx1xq16AbL3PHHmwg7t1QMD4TEw8L_XtxT82664xZ0dGayuxYqpDbHq5S0WB452Be7XT7BfDESEGzdZJNUKuECzdP7MwPZnP2cuS9BtTjYOhLMIcEg1ZpHOU8zeeTKjm-p0gwzrHztQ1Ww52cfyqD0q5cANeb1AMoOZnfzPQUxvmEX1pgqNSxYc2oyhEKC-3asbtz09bZvNDlOtsk6HEk1N"/>
+</div>
+</div>
+<h3 class="font-title-lg text-title-lg text-primary font-extrabold mt-1">♛ AK⚜️RAM‿ ᴗ¨</h3>
+<span class="font-label-md text-label-md text-on-surface-variant">الزعيم المؤسس</span>
+<div class="mt-space-sm w-full bg-surface-container py-space-xs px-space-sm rounded-xl flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">القوة القتالية</span>
+<div class="flex items-center gap-1 text-primary font-bold font-title-sm text-title-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">sports_martial_arts</span>
+<span>586.8M</span>
+</div>
+</div>
+</div>
+<!-- Top Power Champion (Vice Leader 1) -->
+<div class="bg-surface-container-low rounded-2xl p-space-md flex flex-col items-center text-center relative overflow-hidden shadow-xl group hover:shadow-2xl transition-all">
+<div class="absolute top-3 right-3 bg-secondary-container text-on-secondary-container px-space-xs py-0.5 rounded-full font-label-sm text-label-sm font-bold flex items-center gap-1 shadow-md">
+<span class="material-symbols-outlined text-[14px]">bolt</span>
+<span>بطل الأسطول #1</span>
+</div>
+<div class="relative w-24 h-24 my-space-sm">
+<div class="absolute -inset-1 rounded-full bg-gradient-to-tr from-secondary to-primary opacity-90 blur-sm"></div>
+<div class="relative w-full h-full rounded-full overflow-hidden bg-surface-container p-1">
+<img class="w-full h-full object-cover rounded-full" data-alt="Legendary white haired anime warlord admiral avatar with glowing purple mystic aura in dark nautical aesthetic" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBL-JeAFN1vPwbcw26Z_NQj7qE8EVVAQ70Dv5UrOSKHxd1Kb3fM8oOZfzUuJw9nUo8c_DaN24TFkfCTMYmm4lAsQJljNNWCD-SKJqJcJNdvAcjUWz4g9GG7UJA3QDTHNB29GLShDm8Zhyw2LKH_gu7D4lVTlidqirRrhw9asCPeVil7y-yLTPA-bwONWPUZdRSEgXyaN5lX0uR5D3L2SRGnxaqJZJmedRIB--StuDRXIMiFHbNIgeMF"/>
+</div>
+</div>
+<h3 class="font-title-lg text-title-lg text-secondary font-extrabold mt-1">Edward</h3>
+<span class="font-label-md text-label-md text-on-surface-variant">الرتبة الأقوى في التحالف</span>
+<div class="mt-space-sm w-full bg-surface-container py-space-xs px-space-sm rounded-xl flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">القوة القتالية</span>
+<div class="flex items-center gap-1 text-secondary font-bold font-title-sm text-title-sm">
+<span class="material-symbols-outlined text-secondary text-[18px]">sports_martial_arts</span>
+<span>1.4B</span>
+</div>
+</div>
+</div>
+<!-- Vice Leader 2 -->
+<div class="bg-surface-container-low rounded-2xl p-space-md flex flex-col items-center text-center relative overflow-hidden shadow-xl group hover:shadow-2xl transition-all">
+<div class="absolute top-3 right-3 bg-surface-container-highest text-primary px-space-xs py-0.5 rounded-full font-label-sm text-label-sm font-bold flex items-center gap-1 shadow-md">
+<span class="material-symbols-outlined text-[14px]">shield_person</span>
+<span>نائب القائد</span>
+</div>
+<div class="relative w-24 h-24 my-space-sm">
+<div class="w-full h-full rounded-full overflow-hidden bg-surface-container p-1 shadow-md">
+<img class="w-full h-full object-cover rounded-full" data-alt="Fiery warrior knight avatar surrounded by blazing phoenix wings in dark tactical gaming aesthetic" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCCQJAMtEPekCUojZGuk-8hSbJdWqYiOBnvrhV57nko35VgSNr6HEN6BeEw7bPxG6uLXF1VqtjOwiyEA6UKvOUQWM1hRicCvBfoxdJggGSk6cMSSC1LEiPCWQqdiN33-qBvfScBebtK7KlvveCx9RppZFXur1337kMGePUt40kFYxONw9aSY351birOVUvSfA6LQUZqpZu6oLxRBWOYLxvMBvxFCCi42guJO99FxIgRd0Bs5RUUclz5"/>
+</div>
+</div>
+<h3 class="font-title-lg text-title-lg text-on-surface font-extrabold mt-1">TR Ғ 5 R</h3>
+<span class="font-label-md text-label-md text-on-surface-variant">نائب القائد العام</span>
+<div class="mt-space-sm w-full bg-surface-container py-space-xs px-space-sm rounded-xl flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">القوة القتالية</span>
+<div class="flex items-center gap-1 text-primary font-bold font-title-sm text-title-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">sports_martial_arts</span>
+<span>1.0B</span>
+</div>
+</div>
+</div>
+<!-- Vice Leader 3 -->
+<div class="bg-surface-container-low rounded-2xl p-space-md flex flex-col items-center text-center relative overflow-hidden shadow-xl group hover:shadow-2xl transition-all">
+<div class="absolute top-3 right-3 bg-surface-container-highest text-primary px-space-xs py-0.5 rounded-full font-label-sm text-label-sm font-bold flex items-center gap-1 shadow-md">
+<span class="material-symbols-outlined text-[14px]">shield_person</span>
+<span>نائب القائد الميداني</span>
+</div>
+<div class="relative w-24 h-24 my-space-sm">
+<div class="w-full h-full rounded-full overflow-hidden bg-surface-container p-1 shadow-md">
+<img class="w-full h-full object-cover rounded-full" data-alt="Stealth knight tactician commander profile avatar in sunset combat armor gaming frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCzpkBmtbANYdJ3M25bpIFcIpyXLIW3WfTSCvZ3AtShrj8bvNfDGUl3tIzB9544HMi8UZcQrCeHcWAs3Ak3QxNRozZo2m-x6fUifqaYmNvmNs8_LWZKzBDlCfUDpG91pM_bxKX2mtNzlZcZm0B7p3o0ImXRaHdokXqgPkT6oUjRxbnaf8oUi6KILDMEUbF7dCh24Gqx3vjykYzr7WbW3YE3WyX9Kc_dAvRaKq-wqx34f1a97TpG1hHB"/>
+</div>
+</div>
+<h3 class="font-title-lg text-title-lg text-on-surface font-extrabold mt-1">♛SAM93♛</h3>
+<span class="font-label-md text-label-md text-on-surface-variant">قائد المناورات البحرية</span>
+<div class="mt-space-sm w-full bg-surface-container py-space-xs px-space-sm rounded-xl flex items-center justify-between">
+<span class="font-label-sm text-label-sm text-on-surface-variant">القوة القتالية</span>
+<div class="flex items-center gap-1 text-primary font-bold font-title-sm text-title-sm">
+<span class="material-symbols-outlined text-primary text-[18px]">sports_martial_arts</span>
+<span>660.8M</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Officials Lineup (مسؤولو التحالف) -->
+<div class="bg-surface-container-low/70 rounded-2xl p-space-md shadow-lg">
+<div class="flex items-center justify-between mb-space-md">
+<div class="flex items-center gap-2">
+<span class="material-symbols-outlined text-secondary text-[20px]">badge</span>
+<span class="font-title-md text-title-md text-on-surface font-bold">مسؤولو التحالف المعتمدون (Officials)</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">4 مسؤولين ميدانيين</span>
+</div>
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-space-sm">
+<div class="bg-surface-container p-space-sm rounded-xl flex items-center gap-space-sm shadow-sm">
+<div class="w-12 h-12 rounded-full overflow-hidden bg-surface-container-highest shrink-0">
+<img class="w-full h-full object-cover" data-alt="Anime sorceress female captain avatar with mystical silver hair and dark sea crown" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBs-qoZTvUeGQz3aXZ9sC-0L6u6I6ZvEwW0hNxwCk30aKvGnwoGTRl8b7xV-t4DDrtNgN7gKU-NsClV6HqnKQDm3vx5SXFpdKcpBzMcJ60OOmUTivJGvzhidABtIFePqglPxsNqmywvFtlSUuvx6kfdoueRcHXKkhbEW3_crPdWrR81Yq3RFtBwt2PocCmL6jRadWXLXbgMuTgEb9PscRmqEjOAkW-fqwemQCuSfV9oD66BtJB7D9r_"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">🌬️MAYA</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">Official • 898.4M</span>
+</div>
+</div>
+<div class="bg-surface-container p-space-sm rounded-xl flex items-center gap-space-sm shadow-sm">
+<div class="w-12 h-12 rounded-full overflow-hidden bg-surface-container-highest shrink-0">
+<img class="w-full h-full object-cover" data-alt="Chiseled tactical naval commander profile avatar wearing dark sunglasses and metallic badges" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDEvqK9kNSqKFJJk6_OQY1tlOnIgKIJjwLUdHVg1g6DUzTtoSA90CP0njJeAOnCM9Na5QdOC8o3J3rBBJKs0S051FL4QyFDgFF4ex2NdksLaZo3l93kt3j7HRu8qTlWICRjwFHH8xyFamDbsXApenKJUS0i9uQyRuP4ls52HJ_98x-gzijnDbFuHk0w6blgMbDtf2pnbpfu8kyiEgyQWP1vlcqBkicR8KnKHnOiUg2mnIpfv4yXdip3"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☁️ ╎ 𝐼𝐻𝐴𝐵 🇹🇳</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">Official • 898.3M</span>
+</div>
+</div>
+<div class="bg-surface-container p-space-sm rounded-xl flex items-center gap-space-sm shadow-sm">
+<div class="w-12 h-12 rounded-full overflow-hidden bg-surface-container-highest shrink-0">
+<img class="w-full h-full object-cover" data-alt="Regal beautiful female fleet admiral avatar with ruby red crown and flaming aura" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBzdl0sZEeicERZuNBD5tmXbY3F76mGaxGc9LnkMVs96dOVz3wdkjOI7Xy_YnLTNTrmadNSncauXbcl38meh-Bk8OiXVPwMx8eJkPXs4k6nEyGybmNdgqWajGJiSsR8sAzH2PLssc00bgOHlvbCCyj_Py7qeYLuW3eL0aWfAqRHPAG8eNZQr8L930cZPVtZjr7bP7M9KDUOXi7o99Ihvqsk6u-pL5wmpHzJ04osUThFozf4ApiLoppd"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Arwa TT</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">Official • 893.2M</span>
+</div>
+</div>
+<div class="bg-surface-container p-space-sm rounded-xl flex items-center gap-space-sm shadow-sm">
+<div class="w-12 h-12 rounded-full overflow-hidden bg-surface-container-highest shrink-0">
+<img class="w-full h-full object-cover" data-alt="Masked streetwear assassin knight avatar in black cap in moody gaming room" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBKx7lYi-CH_wWrniWAsAGc88UKkqwDr-3Vj1VI-Vyj4DqYytf4PkFlHVuW9LfahhRghiImTEjQSKy2UT41a1CEg7Fcnbn-I6QobywTS6n16uCYsetIbggZalxOqv42rTCgZncOjLv3GyZgeVwla_9LtfFe3qfbRzFO0FtDSNtRr-QqMF_Mmay-91QuIvFVHIlyiEJKoPW_wi4qhfJcGgt4c9BfPTgsnonibVzGq8jQrkoi2nkEvlSX"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">NAS$IF</span>
+<span class="font-label-sm text-label-sm text-secondary font-semibold">Official • 609.5M</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 3. لوحة الشرف وقائمة المحاربين الكبرى (FULL ROSTER & LEADERBOARD) -->
+<section class="w-full px-margin py-space-xl" id="roster-section">
+<!-- Section Header -->
+<div class="w-full flex flex-col md:flex-row md:items-end justify-between gap-space-md mb-space-lg text-right">
+<div class="flex flex-col">
+<div class="flex items-center gap-space-xs text-secondary mb-1">
+<span class="material-symbols-outlined text-[22px]">format_list_numbered_rtl</span>
+<span class="font-label-lg text-label-lg font-bold">لوحة الشرف العسكرية</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface font-black">قائمة أبطال ورتب الفرسان</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">ترتيب أعضاء التحالف الـ 46 وفق أعلى طاقة قتالية مسجلة في خوادم اللعبة</p>
+</div>
+<!-- Live Search & Power Stats Filter Bar -->
+<div class="flex flex-col sm:flex-row items-stretch sm:items-center gap-space-sm">
+<div class="relative min-w-[260px]">
+<span class="material-symbols-outlined absolute right-3 top-1/2 -translate-y-1/2 text-on-surface-variant text-[20px]">search</span>
+<input class="w-full bg-surface-container-high text-on-surface placeholder:text-on-surface-variant font-body-sm text-body-sm pr-10 pl-4 py-2.5 rounded-xl outline-none focus:bg-surface-container-highest transition-all shadow-inner" id="memberSearchInput" placeholder="ابحث عن اسم الفارس..." type="text"/>
+</div>
+</div>
+</div>
+<!-- Filter Pills / Categories -->
+<div class="flex flex-wrap items-center gap-space-xs mb-space-md pb-space-xs overflow-x-auto">
+<button class="roster-filter-btn px-space-md py-space-xs rounded-xl bg-primary-container text-on-primary-container font-title-sm text-title-sm font-bold shadow-md transition-all" data-filter="all">الكل (46)</button>
+<button class="roster-filter-btn px-space-md py-space-xs rounded-xl bg-surface-container-high text-on-surface-variant hover:text-on-surface font-title-sm text-title-sm transition-all" data-filter="billion">فوق المليار (1B+)</button>
+<button class="roster-filter-btn px-space-md py-space-xs rounded-xl bg-surface-container-high text-on-surface-variant hover:text-on-surface font-title-sm text-title-sm transition-all" data-filter="elite">النخبة (+600M)</button>
+<button class="roster-filter-btn px-space-md py-space-xs rounded-xl bg-surface-container-high text-on-surface-variant hover:text-on-surface font-title-sm text-title-sm transition-all" data-filter="legion">الفيلق (500M - 599M)</button>
+<button class="roster-filter-btn px-space-md py-space-xs rounded-xl bg-surface-container-high text-on-surface-variant hover:text-on-surface font-title-sm text-title-sm transition-all" data-filter="vanguard">الكتائب (&lt;500M)</button>
+</div>
+<!-- Roster Grid Table -->
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-space-sm" id="membersContainer">
+<!-- #1 Edward -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="edward" data-power="1400">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-primary-container/20 text-primary flex items-center justify-center font-headline-sm text-headline-sm font-black shrink-0">1</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Anime style admiral Edward with silver hair in ornate golden fleet commander frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD1dEsIyFSRUgCA1_TRHMBQnBmrY5RunQ8TJ5t5DcHYGHOL3XlIJG8xRSAGpHQZn5UyUX-l6p34DH-ouemmG8Z8N1YjynLSHMLRrsNDlrPuZ1S39OfCh61G2dq_NiMBK3vxDV1OkIRWoDJ3jmXbjk6yo8qtHl7oX4YYlAqGiOVBnIrKqkHp7_5kDXizorg4tWH81Axz96E8E2VN7FBY-wpOsTnKZWUbJnmRkB5S-xN-hCpm991fZFiV"/>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Edward</span>
+<span class="w-4 h-4 rounded-full bg-primary-fixed-dim/20 text-primary flex items-center justify-center text-[10px] font-bold">IV</span>
+</div>
+<span class="font-label-sm text-label-sm text-primary font-bold">بطل المليار الذهبي 🌟</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-black">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>1.4B</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">21m ago</span>
+</div>
+</div>
+<!-- #2 TR Ғ 5 R -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="tr f 5 r" data-power="1000">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-secondary flex items-center justify-center font-headline-sm text-headline-sm font-black shrink-0">2</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Flaming warrior TR F 5 R with dragon wings avatar frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAAuNzDdjoFWSZfaO_2_1mlQfcuAdYjgKUUakYSSCqotv6_zX1YL17NHXUDZGpckfOtN5p8nNgVV1s2fFptFDoThRyrm2B8IYKHHt4n7-gcL0f3dbwQgaUluouD1YYEHFlFy4VKzNZaMueJNLVzUrKEqZwSzVQ36VDI59hUtCBr1P988Hz5cpwYVPBvcXZ6sLsSAPXl5xps_RR_T2b8s-8KfkJwoioEKJYBU-GTku3GgsSSVAlKFy7F"/>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">TR Ғ 5 R</span>
+<span class="w-4 h-4 rounded-full bg-secondary-container/20 text-secondary flex items-center justify-center text-[10px] font-bold">IV</span>
+</div>
+<span class="font-label-sm text-label-sm text-secondary font-bold">نائب القائد العام (Vice leader)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-secondary font-black">
+<span class="material-symbols-outlined text-[18px] text-secondary">sports_martial_arts</span>
+<span>1B</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">25m ago</span>
+</div>
+</div>
+<!-- #3 MAYA -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="maya" data-power="898">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-headline-sm text-headline-sm font-black shrink-0">3</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="MAYA avatar in circular dark anime naval fleet commander frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuC8S-ZUmKt1mqXAWJ8tzNEfl0bNJWztrszZp-JnGsmTRT7e-sFH4a9p3nCheuvyy79-VACqTUUcvlZYYD7XDoQ0BEeEo2OGUixA3LvvyGHZEvyCGhWwAxsGByr700Vvhe5qj4AX0q1FuThxjDyO39lOGXywObqyu4YB2zi0QJbL4GOxbqxZP31o1ZcLqaoDFXw4HC6VIn65oga69XVcfn4QTyXkCyxg2gicpbMW5AbBJIWh3QnKmSR9"/>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">🌬️MAYA</span>
+<span class="w-4 h-4 rounded-full bg-primary/20 text-primary flex items-center justify-center text-[10px] font-bold">IV</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant font-semibold">مسؤول (Official)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>898.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+</div>
+<!-- #4 IHAB -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ihab" data-power="898">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">4</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Tactical general IHAB avatar with metallic dragon border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD--GZd40tBVnZIzJRGoKNS2qsEJX3JUsiZqnxzqhCIvu5iuyNVE0jaB5G0DuKthpaBXzjhZGy7EbAJl7V8Reyy07coJacezW-tOCTjYMAP26qsIYnlvLtY9jYtlKaPa-qk4ABnon769CghDsvaPUmbqCKp4ny7G_6PPtN4ktxQgXy2SikVG2YQaG-4-byF1BeoZ4xZRDjUXYjpdUZ_eZBxrs3Y-TAuBrvRfEwO9TpNj_vnoNoZ4aCr"/>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☁️ ╎ 𝐼𝐻𝐴𝐵 🇹🇳</span>
+<span class="w-4 h-4 rounded-full bg-primary/20 text-primary flex items-center justify-center text-[10px] font-bold">II</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant font-semibold">مسؤول (Official)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>898.3M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #5 Arwa TT -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="arwa tt" data-power="893">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">5</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Arwa TT commander portrait with golden laurel gaming border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCvhttIyRe8aGaq7z3sKeVATI5_1E_gGjDI6JdYsYcYNjfGf3TSDqHQOIDc3QU7Zwzkqswko71zmCUF7HH2WMRXGKg6l8JEtsN1y8frK55TEq7WWWlN-6BqZGrbFzA36iAf-PRu1Z80ComMy4hG23oANMpkA7UONGlO1E0gZMat7G4SJCclvetbv75aNarN0LUYmpdgHV8jSrvH7okibZ5ZZFN4wvh3-oKby_U8ZB7V-7IiaIzANjXa"/>
+</div>
+<div class="flex flex-col min-w-0">
+<div class="flex items-center gap-1">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Arwa ᵀᵀ</span>
+<span class="w-4 h-4 rounded-full bg-primary/20 text-primary flex items-center justify-center text-[10px] font-bold">IV</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant font-semibold">مسؤول (Official)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>893.2M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">6m ago</span>
+</div>
+</div>
+<!-- #6 LAITH -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="laith" data-power="832">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">6</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Arab knight warrior avatar masked in desert dunes with royal badge" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDY-RNIX_84d5m-EqCPCAIOFJDlgeW-bOEwjUfG1fAQou51lJfYV4Yfyc7Dbd4jFSZ1lo0d6Sha0WjhCZAa_aKq5WGfOpTsJJWuQHG_iO-c94UN7aRJ1Rs1fY9erqDWUDrhMfEK6jrVeAg-Qcjggy5ibB60v7YN1GTBw0didNfpuHzm_fXqCmrKplyILcvLccrFbQJTBnVvzYFIM3HXKaB2IT_R4az8xq4U8pulGzzcNubQPzF-VMk_"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">LAITH</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>832.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #7 7 -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="7" data-power="767">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">7</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Traditional young arabic child avatar in white keffiyeh smiling" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAim_GSQDvi2VUtl8tDfHUjD-ZmpEhEopd9nqdSbJuxAw1d7NrwFswKXg_9e26VEvG_SgvcATIInIOiSREmGnXwWTb0mLRKisPc1IpPRmSekBI7zqlIu-1VgvE0XPSwNzo9gXEj8VGLgX-Zl3HykSahoIOPF4WvL21Ul7P6S8JYuIog7R8BiwZAo965UGt-PfNWqUTfZ0uJrgtXCsprjjP_toDoRu3zYQ0kV4qwNGgc1eGzDAEL_1AQ"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">7</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>767.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">12h ago</span>
+</div>
+</div>
+<!-- #8 Vadel -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="vadel" data-power="749">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">8</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Anime flame master avatar in fiery crest border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCxoBgD-GuhU80oSRz_mfyS7KfX5oCPoYWIkkyIivMVz9jv9y4oa4a6r_OR69uyJ9mOOUcOosObfaorEfydTQ9GyzS0YSahlrGYuu7nwn0VxRREQFl3bp4xAqAYF_07fSByd8nlN0BC-S-qpYnw4BSWtoP0Ldn09REEQiWm_-BbDyZrlJlSH7Bw7J2aPDOimfY2oDKwTLe31htLkzl8Bnz04p08GthdS2E_I0fX_bElI-1RvX6PmYAI"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">𝒱𝒶𝒹𝜀𝓁</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>749.6M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">3h ago</span>
+</div>
+</div>
+<!-- #9 لبيق -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="لبيق" data-power="712">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">9</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Dark aesthetic silhouette avatar in hoodie in red ring frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDYTl66eUp9grC6-lQPhmvQsd9xB05L7OpBicCez6SxHySWlZGRVjsgqDNXytwoynKFSeERstlCh6fNnQ0JFYX-GbclqOi_0scawcKRAaZeFiqJ1KhYQ_3cRa-k3oK1V0pUSZjN-UF8GSnf7AamdRuv1_B0W9aAUR9hz_pW5QpBiixMvbfBtreKi1a1W5ho1cuP1-YJQ39ikqYXtdZpTn_FAqomA7pjm2adV7oKQ3n6nz-IQX8ZDumO"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">౨لبـ♡ـق</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>712.9M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+</div>
+<!-- #10 Fatima -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="fatima" data-power="697">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">10</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Artistic profile of woman bathed in sunset light in ornate red border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBB8ZwXts666zipKOOlI1WYmcTTmS3Qb9knp7cbn1qP9C-eU7p7h6TGmHCi_iNlJ0x2n0mgI-uWYbOCc27rZpvNj4jNdzyGrKb57q460fIXKafxF5YZxUKTm3FCVZ2F6mz3UOi1PczP-ySwS8DF9LL_ZNiAMtpNyShRU5JnsvP7YA19s9yIMBBrcpnKiJ6fd3ngOFlOUY_D4y38b-1VlzPl-MpbvBwORJt0zCOIf0i110DYD4HySzus"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">ッFätîmå.</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>697.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1d ago</span>
+</div>
+</div>
+<!-- #11 DN MAHDI (Online) -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="mahdi" data-power="694">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">11</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Heroic anime warrior Mahdi in dark metallic armor with battle sigil" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDC2vJYifMLTdVGGGCNzzORQfeSTtlC5TM6UIo-kZL17M0XU-s-uwyzN7ocHAKO8p3bbp7dv3p27QK7Oqg36H8HiwVg8e12TzLIUw-wH3lY7QivV1hqsVlPUuJwGni6NnblUYT7ZhplwUB3TPVll27VR6q7vJt0bl1fdh3xic8FoLdxc74WOdBw81uOPMersFW7xzAKdFTyiN9vDB6cbznHJRgB5bxkFdx1b8SBktIphsFu368olp8D"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">DN 𝑀𝐴𝐻𝐷𝐼 🇹🇳 🦅</span>
+<span class="font-label-sm text-label-sm text-secondary flex items-center gap-1 font-semibold">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+<span>متصل الآن (Online)</span>
+</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>694.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-secondary font-bold">نشط الآن</span>
+</div>
+</div>
+<!-- #12 DRAGON KING -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="dragon king" data-power="676">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">12</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Luxury watch and sports car avatar for Dragon King in red glowing frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBlTIhaXpMyPGfkZZYc-430KEb1CDQjFqzrq5mB32K7k9c9f3vlKpEdAuTZy51daawwGuKaeYygMN3bhwrq1E_We0mtbE--CBaYcHSgMoL0ZMopEf2oIxQJKOyHpyWAKsNaXiilwairFNt2qQatUsA05PIlcYFn1kckWo7IWr49U_X0nSqfevR3GDj0CVe5ZEI4AlukTBc0jCf8lYgbxUuQpDh5UW3EWMnGGnqwUCoLLP8SZ3bpDNJ2"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">么 DRAGØN KING</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>676.7M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">41m ago</span>
+</div>
+</div>
+<!-- #13 SAM93 (Vice Leader) -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="sam93" data-power="660">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">13</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="SAM93 vice leader avatar framed in fiery crest" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCymb1CGBlLeG93Xv6RiLBzQ58DVJEV35v2Z8BwvaBy3Ecud1vjs08VmtCg1hk0OCWaCl1wk2EYMlnBLE2DikZZYZGtzv7gDhbQcKOpGpRe6kGGJbgGkHpaCUADQpXocXX-XJFyNTfmA_EnifyO0B_hmHXQDQAiZNkZsCdE29DYeTptzfPE1LRrx8JgtjRAOse1YW2PR0IG-K4Q4lgQFKP6JG5kiuL5cY6ul4O7yPM9F0sX5h7mPF89"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">♛SAM93♛</span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">نائب القائد (Vice leader)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>660.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #14 Ibn Khaldun -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ابن خلدون" data-power="658">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">14</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Philosopher historian Ibn Khaldun statue in golden heroic frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAmqUEkcKVPK4izhbiWYcouo1ML7uBaXPcEM7mVpiZtbfgstDx7moPX_axIqPQia0kCvgtxzO-dAbKb2BAnxaj4nDxzL36UOXBV89ykpUvUKcvpqruspBS2Zj7o3TEIeavzLfTUetWHATtzxSgaVtkTKVCOoq4x92VCrbSPtgTr2Pz74aX-qZxB64jtJjnjgvXPmjz6tuRc2fqsw2jFskQjJ3m9tE1X3E5mdjHHE3nv_0LOQAWgXdSq"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">📖 ابن خلدون ☁️</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>658.7M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #15 Kiss -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="💋" data-power="644">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">15</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Dark silhouette with golden royal crown frame avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuChibP9Uvwsu6OZKScc2YxJINr-NLZJQZdszZFLlTjIvY0Mei9lNavwGb00o98q6DDakyxf-6tzpqzFlfb5QeP6884ef6sRUskjH-FEwDgp4gstk9-mjZztJpJR9eAADPXulvHH-Gos6dXA7MU1YWqbdcrhRnSHDZkDO8_cEbihRArQwckjSQvCe7E8jwYayy4CuiTn950IM8UDMb6UzExSoyqfjc3fo_uktXJvfMXKV_HxqnlFaY5u"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">💋</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>644.5M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #16 Asmaa -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="asmaa" data-power="620">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">16</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Fierce female avatar with fire wings frame for Asmaa" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBAZYdn9-mYTIzNSgdmkoxAdJ17ZPynPoxPS0_oz6ZIcJdqLdGbtt3_xuqDsXklg182NvTi7ttncWhLXgS9-P8gHZ6l5RUDMFuCjwEwbZqvqNT1zDfDoSLr0KKQO2MMUcV_WOLMkOeHrpX_4hoP0Envlk-QiZbpWFy9QM7QaNYwmcpjCnPlWue5aQwB114rPB9o28WD810yY-vwgPBAyhYlEXsLRA3W99b4OAyS2_d61ZxH3Wv2LAJk"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Asmaa 🦋</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>620.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+</div>
+<!-- #17 Moon -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="moon" data-power="618">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">17</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Playful anime blonde girl avatar in cozy pastel palette" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCLzz-HMlICmYay0f-mqRHpT6ULefLs-FKDughjINV9sM5RN8kqXbAik_nLNQmznecjjHIN3OmdCwLmB-_tHQbUkTuY8AMQYXXoCoOilyWsGn7JpYJQp8u_KOlJsfMcgS0qoVsQYnbc3xdx4gP5ClU5LJf9RhvDhpfhdKRrvQOmB7uNWWtTN4dkpJvKo9trd41ObKcxHl_z08ZVL-buQU9gfr_8n2-y_Aha0vm2RL7l2lQdOl5gEV5H"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☁️╎♔ ɱ໑໑ף ♔╎☁️</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>618.9M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+</div>
+<!-- #18 Rawan -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="rawan" data-power="614">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">18</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Elegant smiling young woman in vintage film photo portrait inside golden star frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA9tK3gNxQ28RckOdXlzQgpMUzG6ayi7NbmZrmAHkUo7HRvF0KHBKJtJG2yqdTL-3bLkqmq-XfmiCPIAae-4XIG3TksxGx3a99WwTzlvHOcn79hz47tBEqgXPB2wGFFULXUpzRlHAGt7DYgvqIItHkh2sdJzgTjLvthAcx_xDhNKyhhO68HMJTyM_KcxkVLm3TuOyD4q0P6F22AR-babxXn_Jjcxj6zZyFLTcVLqQnDi6_1xNDYnL6Q"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Rawan</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>614M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">3h ago</span>
+</div>
+</div>
+<!-- #19 NASSIF -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="nassif" data-power="609">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">19</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Casual monochrome athlete in black cap avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAZ-xU1o7mSTqwwylP4KcalPHlE8BGGePtqPuaNkBPwmbfZR8IsbsVjFA2G9uqlvNYYyvivKyICSff9UNalvbpmkUx3CZo3XVr4TRXA58YgdMd-9MHU2-Z1Q3D9qgTZt09gVDQ3mMWjKY_BrtOFx6aUpuMOZn-zqkscmknB0Hd9ud5ZsOF4VhmWH_vhNFZeVEp34DbrR8PWOb-usnm1DkeqrxXQG34P4kQc-VphYKhZ2lLgIiyneCDC"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">NAS$IF</span>
+<span class="font-label-sm text-label-sm text-secondary font-bold">مسؤول (Official)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>609.5M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">16h ago</span>
+</div>
+</div>
+<!-- #20 Sa e e d -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="saeed" data-power="605">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">20</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Anime boy fighter avatar with red flaming magical frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAIRihXTRSU6fWqSZyx1Om67_O0BdtmlnisM0kIEs17Bajywq8CePdWiPLkffjNvfEjvDacDtw4Qdh3WjhYFaA5nTt1v6sq4Pki7VYYHcpwZYlCoL2l4E1ELwuBb0XNiAACURN0uyhBqrNrgK9B2kWEMb2Ihq-1DT-IcMUxr5TK2sBUWJ6NFDlAejuJUNS2ItZknuvyt01e2M5BUlDqS1BkVQFWcuxEvAywHPJ3CDGPU-N5k47usUnN"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Sae e d</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس نخبة • رتبة IV</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>605.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #21 Leader AKRAM -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="akram" data-power="586">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-primary-container text-on-primary-container flex items-center justify-center font-title-md text-title-md font-black shrink-0">21</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Charismatic commander Akram in sunglasses with royal fire ring" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCMHO73JGk50X1N2n3GqFeo6130mEEC0gx19A3u3FGLXqHsaftNhCylubMomZmgvvUujNrWi-80Yn5Yg4otXl0BE93e05c8ditJR2HlW1ew8pIz3KlUYZGEx3lF28ikgr9W8ZKMwq___hwK08aO-sbnP19zf7-GdHzd7iOBCrzkLwASbW5HmN1DvT5sxag9vi89xTWNDSoasY4ANQU2ImfWaZIsAiNiersQ5Uk8ZB4KUzJcdixtJZyK"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-primary font-extrabold truncate">♛ AK⚜️RAM‿ ᴗ¨</span>
+<span class="font-label-sm text-label-sm text-primary font-bold">القائد العام (Leader)</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-primary font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>586.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">12h ago</span>
+</div>
+</div>
+<!-- #22 Nice Ds -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="nice ds" data-power="577">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">22</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Aviation pilot gaming avatar with aircraft symbol" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBf29rUo9jcCjVn5K2obFYURqID1h2dtNdJzSfNXdI7sLN-2pQRWi6bgFo-KiRunQ5jgcMAyTbaBdG50Tu6_mzqUcIUuqDXV4c29kGE_dzJK_6UpnjsDsLH55PgOFFDrRWz_y29wwV5JOceXzPdk1z3KGO6-JB9LzR4bxg6njZE_lRFUrlFC1hKI0-g6eTjPAxQlOWqddBK3atoFeoKQgz-tOJRFlkbqh15DYOISsXLlpf77Cv7LY2S"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Nice ✈️Ds,</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>577M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">4h ago</span>
+</div>
+</div>
+<!-- #23 Ziv -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ziv" data-power="571">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">23</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Artistic painter anime avatar for Ziv" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAEh_UdaH81R5Ra8LXpY6JGLbxhLotI3xDaN4C_ImBWwlNWORPAxXe5YK0cQW4KPUSWQXGD2jWqWFi3CGCZ5TUKzREG8WnladW5hUbr9nbL57VBH7VexWJ2xfWvu6_KlP1cqcy9Dyc6UhVwuVoFBNRGmeHHy6estqqGtgiStsQN5noUC-lv3HgNiNrTq3MbNOabVCzKrke42Ciew6wcIf-hdpuMkkmbKw5jhwgI9d0kd8TPdqayD8nh"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Ziv 🖌️</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>571.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">5h ago</span>
+</div>
+</div>
+<!-- #24 KETTY -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ketty" data-power="565">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">24</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Egyptian royalty queen avatar with golden ankh and pharaonic crown" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAtpYoLWf7Dl6Ka8lOP1rxkNdzGmTxLFM7yTkIR-hELN-SFeuUqd8QpaduOJwQWjNzFCDpUPS2APjAx6P8ti9X6OGK7OanVr182qIfGEPK24Oeh2PWtagbF41UiE5WcWeqH5AFXdVnvFVfNb0ok_SATqo0xPJfxIfeKnWcW_y1tuLJDj2CZs4SR2jXZ6jkk6ast8luDQ1X65ihAeXSEVPW6wLDR9stMKH1dnR7gvraDrEbBeVcuUeh4"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☥KETTY 👑</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>565.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">8h ago</span>
+</div>
+</div>
+<!-- #25 IBRAHEM -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ibrahem" data-power="551">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">25</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Noble crown royal knight Ibrahem gaming avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAEKrlx-u0u8XteL5k76OJrbHFf3QzKoqPQZgg7g-dF7ZaRH2sZ1sVwVuzGSDMYQvgWTEAxYbuO59hc0gggzybeEeUBZZtmf0LIHejkLvhPqSD9Vz6EugTs4W1u5oQC_hcezxYsgbkXRzsRSLwtpF8cM93GuMIp-si2TDpMeSXSvcWykGUnDFtqK56887OSfIV1_rA2NEwwGaOtFFSlfHks70VBrFG6afklP5Q08uCGkSyQMAE7dley"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">♔I-B-R-A-H-E-M</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>551.6M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #26 ريومه هاربه من البلكونه -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ريومه" data-power="550">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">26</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Playful cartoon avatar with pastel accents" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBh1j9qI0x1WXY87LpZUvdNu06ykauwC19_OzKFe53hzDBP24dtAyoHLAdkYxTHVFqUnWda_0u6o7tXJKQHzxs9pEjICkT1piGZ8q6xx_OePg2qSTjB5U6egu_7_91zqUvsp1VtCF4NYIUSans764u9i6_MumsVeWJFzvX5QV8PzmXaN-5IqnioS1lLIf7KAaZSSaNWfN48sxzEpJtOaMIOhTUHVI_BWD7ujHNUmV5TwpqntrUjYTaU"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">ريومه هاربه من البلكونه</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>550.6M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1h ago</span>
+</div>
+</div>
+<!-- #27 Marwa -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="marwa" data-power="543">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">27</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Butterfly aesthetic portrait avatar with golden sparkles" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAUEHzbB_OWXug7yVDqf44I2eIvRWCN4Mk0Atbc4z8y3Rm2U1J9ZtMrofgtaCk_nwzlouv0Xuxudnpn1eOCoF_oJyo97Y_WG5Ed_sjEORw6osl_nOnhsjJJNEJvb8Fj3n_NKerTea9AYYNNO_z2i_a6cgAc8nA16GayOi5oKKc0DdXyQHiqeh6OqQ7aCUC2K3R9KCDm_adMzLq6ibYR3IFvFV4Gi3d92xzh7KtaP-Me0d2qTrr74dKX"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">♔Märⓦ🦋ä</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>543.5M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">7h ago</span>
+</div>
+</div>
+<!-- #28 ساندي -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="ساندي" data-power="536">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">28</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Sweet anime princess avatar inside decorative circular frame" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBEoSsOr7WcXJgjw8CoDRoZI8fUbmx7Fvyp07l9n4biZpFx6vqIiz8VzuOJCXhp_AtRbvY1xSR4yUjRvksh-rRlsF-PzjyPfoB4I7T0YkniVuqjWjV20T1kGjf2zlF5f5SyFgUcqnEzGb1kiDlYo1wyMTO8JJbFi7CXYqOKRV2oAW4yojb3B1hyW6P89VOc6VsAdOco5Ap6z0LvoPCpXk0hkjascZm-IYweCQeS5jzbbwGQi6dQBCju"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">ساندي ღ</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>536.2M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">3h ago</span>
+</div>
+</div>
+<!-- #29 Captain SW -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="captain sw" data-power="535">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">29</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Naval captain avatar in military visor hat" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDzPR66JxxcAHs2KSA8XtzV3tphdhyU_mijVrkWQ5l2alK3sS2vNrVCxbqjSvHrX-7_9AR0udGXGu13u9OXx1uXQ7m_2HEd3LIhidnsI4lenbDjTeEPT94d3Y717lLcIe72bPq0bEeldY_Em57pz9Bfg5rQ_k2pc1Kg-X--Gpfti_7jXwTWToVx5NYyrbmDm1Zfl3QB6xJ4TiKK_sU19HEdrqrLi0ZKExjUeFRH1w9J5adnaKw5jWbr"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">Captain: ˢʷ</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>535.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1d ago</span>
+</div>
+</div>
+<!-- #30 سف -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="سف" data-power="529">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">30</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Tunisian warrior emblem avatar in red steel border" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDLND6kk0-nd2A98i4TLJ-qKPHMcn_whQfKMQfRiftPLBbFR6U_vpBGeEJXS75XaZOw0j_HhQwRaxpX7tfMKC3fbmf4KCteAhb3XvSPJV2sFJzuf5LsSzfdKKbqgVxjBFwAdwC4LOl55OisuZZKcSXtydjJzGWKlpi480w3JQD_BuEim-vyR9jkPNGa06fOlyZb-gKUYizHi8RHD4v4kQ4TJ7Yq9fpoaxuOM1IbWyuV9977P8hGvyH0"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">سـ🇹🇳ـف</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>529.2M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">6h ago</span>
+</div>
+</div>
+<!-- #31 SWEET GIRL -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="sweet girl" data-power="529">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">31</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Pink cherry blossom flower portrait avatar for Sweet Girl" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDL38Bu_k4C6Ap3INUNve4XwYSfiwCxPId7QeFT0OrGnAMM8vTY-jCe09YxQ0-dFYOv5T0DihM-f-c0e856OjzaGz5tfC93zl8uofB6-YD59J2qoNfCzJTlWAwU3dVqzg72REXCj-blYoL7153Wf9Howolila8vj5-NbKzhZenC5ZLTDnkU14WRvtMcOSC7nJsd6FqNfVl2r475v4Qd99ymDomuOPUQXcoG2Z7FSDDWrMaYruuYArtg"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">SWEET GIRL 💖🌸</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>529.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">5h ago</span>
+</div>
+</div>
+<!-- #32 الجاك -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="الجاك" data-power="526">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">32</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Mischievous sea seal knight avatar with gaming seal icon" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD2CEvXqCMFD0ovXJxiblsI4gU4qI89oi2bLQLTfdL6m-x5xYsp0BKhduUdNDX_GD0RhoUzfQXsEjueoG-TdmQew88Uqo1nyNBXcph28zEFmumjhhJDAmDPa0EmbsDJr0LAW0zLdVqtIYg57kB9j-0J-T0Wv32D8KGQ3CHOtSFKRe33JB8-jV0Sy1z2sB_RImfQm26tZMI2gVfxMJk4htHsgLGPHEh8qxV0hMSbwcyjzkbkpRMFb8Rc"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☬الـﭴـاڪــ🦭</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>526M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">4h ago</span>
+</div>
+</div>
+<!-- #33 Hesham -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="hesham" data-power="513">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">33</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Crown emperor Hesham avatar in golden baroque styling" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDQdC1zLjPmVQ99mXJBMfaSwenAuvcMjo4GkFzQY5Go4MdSdfBLtKKwRX3uVvlYtSXV-q8cfqsAaxfyEYMhuMncnu6HcyL0B5CAIH7CLVSh9ccaT-E5hpbeUN4OxJz4yAxJcCprxWamNuO_qpUxqtYM816BLTKsKRQbTBUGdwE4qAAWLu1rku5SEV-fQSTI3dvMwr6ZkolF9_cqpqXN74LkAtWhvEUSCS8KPUpbLeXd9TyPBFZW0T5l"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">♛ Hesham ♛</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة III</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>513.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">9h ago</span>
+</div>
+</div>
+<!-- #34 Shosho -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="shosho" data-power="502">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">34</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Stylized anime cat avatar with pink ribbon details" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDF645GOjZor4IqVoeU9Ghzhi319QyPTLZ2XpWBvH-YFTjBL4dA47B98RJJt9vnHI0Zscye-UFWV8ItcZNy4XYxlNhQhct3pgaBC2u5tDOkvNt9joGeAh55rLwSzN7-AtjmNXxCpmo1ntIA7LMsBI6S5RgdJAC0FqCHrzV23tHRVbBHiZXvwYAmy8btFlEX0L03fvJQ54GgO4MWgNmOt_JesqgkWdMiVKnSrfeflMQ0GYKVFND4gPVu"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">shosho</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس فيلق • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>502.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">11h ago</span>
+</div>
+</div>
+<!-- #35 ROBY -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="roby" data-power="497">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">35</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Forest elf warrior avatar with emerald leaves and green aura" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDTXeurNUsEnAEqGAUuFjzCdBVf5puXmcEf9Rcpxgs5RaGe8q2GBHZX8Bt0HtCG_gpaasW4w85AdrYxMX5hEc0S4QYJCrhtYEdM0Mq9nzlhaDKm9gyPldWD2QPMfOT0L-on8LmSOhCP0-49eFllXeo2fOUX1cnjp2NgmP9aSfOUOIttuLlr4S5jEqCgTXgVLcxlGPbvrbfUsgcn14stdBE0-AXgsWz8EgWFHHlx0I1tF_MJ1h97wOjc"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">DN 🍃ROBY🍃</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>497.2M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">3h ago</span>
+</div>
+</div>
+<!-- #36 Rahma -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="رحمة" data-power="494">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">36</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Elegant floral artistic portrait of young arab lady" src="https://lh3.googleusercontent.com/aida-public/AB6AXuChfQaYYLyiZmyrHQVgXWc2DRHf9ZEd3-qcKBnQZVJKOD39eVZ8BLE67G5pVMmYbLEOhV4gdIs-xYxFuJ3XOkGGE4txIGxhezU1P5dX-8anwNqCJtJUIjpVfFiZ5BNNZNp6SgmUU5MaksQgafUNL0rvJipGss-PBAOeenARWDciFoSd9HjC_h_tv45ASosxASSA9E8-taWrU1JhNbyJrQ1nl_w3L5IvxwO8SP-Rfi_DswpJq3j_rLz5"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">رحمة</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>494.3M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">5h ago</span>
+</div>
+</div>
+<!-- #37 Ahmed Ali -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="احمد علي" data-power="471">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">37</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Iraqi eagle crest avatar with lion seal" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBil_SAosjXyAfbp-Q5-IUXPrnGyHNq53q7ebZgqSFEqPs7lMOHx2Dd57hvS3p5skqyVbprfYplCBYo6ATAkyHN3ax6J_eYz14NqQ3usgvZU01r4-AF6UGjcAic2qcmhaDdZLJTFyWK31zjet_7dRGe8TBx2OyDuvZW0T6Y46h-Hz1_EvVQDFZMQIT1Mwic5rIOPB6Ohe3QaO_vLYe2ZF30ER9fJ4LHLz_qg82LFnTEbweRNZp0TDLG"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">ax احمد علي 🇮🇶</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>471.3M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">8h ago</span>
+</div>
+</div>
+<!-- #38 Senorita -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="senorita" data-power="440">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">38</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Regal feminine princess with crystal bow emblem avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBSVaVU4oMLTQhEL48z3QOmhNEZBVyDaCRFdQXNPM5ikT_21pZ7MuxY96HzXs8MAhQAO_izERPNxpJF8cZGri83k0fggyxw9uAbpa-0xRiMOqLtSGT3m85Irs14aQ0RIGOzhJwiw68nQHLpzVOtmi1cffUmbgG2mU4OcXl8L35oTxa3YXuzk2_3y0Af-8pympQcfkTACe0eQTX4x4U4jK81q2E_4lkR1TxU_4a7_gQrJOLJ1nRIcAuX"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">୨୧ SENORITA ♔</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>440.5M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">14h ago</span>
+</div>
+</div>
+<!-- #39 NOLA -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="nola" data-power="434">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">39</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Red tulip flower botanical fine art avatar for NOLA" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDrsXbFCBRJ5EfzupGm63-5jnFodoSOzeejf0c7Bd6ltCY6bzWcq6eqQS0jTY50WB_P4XV3pGkw7uqh8U2ACC0jZJ28XAnAXgopYEhpahdt_rgFTKEBOTGL6jOFlO3bLBJgx241KMQGj3LPhvsajxEF-vS6CXlkkkQ0VJa6Z61gs63mQZMoaT1Z2OwUVGbfFK71zApMCABml-QVQnmh4yUZ5837f67ydTDvNz_ONAiIFlmYTQfkj37o"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">NOLA ⚘</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>434.9M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">4h ago</span>
+</div>
+</div>
+<!-- #40 Raghad -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="raghad" data-power="434">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">40</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Pastel colored cute anime character avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDEvgR4NE78gCqbiwST2O7Cki857Cf2C0ZDrFfSeJbgXl9WrMp_al13C_C8P9GOzkpxVzEZLDCWFPNp593iQaoBMbHTev6OPmiSdnLSXH2ZRtfxI9WQdSyl7fCFZTBzWgW-8C8aphaKr4sWz1vUbX3iXY043Udqvs_RmCSKZPwdZuji9Y-Vs9gZ-KoMHjptZ5pet3esslpD9-1yh4rEMO45UMQtnvpuryCbrzc66dE9XHQLVU-DyrjD"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">RAGHAD</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة II</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>434.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1d ago</span>
+</div>
+</div>
+<!-- #41 Shomoukh -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="شموخ" data-power="413">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">41</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Imperial royal crest with gold wings avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBn46pNPYubR5VgJcA3uwOPZXy-vVzQstcBNc_W8H4awZHYfMwwblruls4zw0e41tqeUeFylFearbMqEhhei077EKNV9fb8WFo10fPb87LjmtCkHwxlVy3aJAhrFYAcMz3UA74AJbXbbw6wCQAbBVq0RfDXz5TKbMR8MVK3LKNWuPJkYGfTnOxNS2flO22AKYubjcGTQnmTtUSnpBFRREFPBiAXaCzOXeldnEGW4sCcsNHM_PGYAiF_"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">شـمـ亗ـوخ ❦</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">كتيبة الصقور • رتبة I</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>413.2M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">7h ago</span>
+</div>
+</div>
+<!-- #42 Eva -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="eva" data-power="388">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">42</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Cyan butterfly with glowing sparkles avatar" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDIi32kgpgUBoJc54PC1UYIi5AYWq7RaOF1zYY4J_ea9tmVmsIY_VqcVbTobWW90e0aLjQbk2e7rlf5v8W3PEpR-h4x6EJEqk845NyRb84W6dHwt3F8spqvUvPiM8dzMTeNo7ytF5jelXbJjhhfE3MNER8qSQF_MP2vkJqjlLiTquMhYozg8zhRxMxnzGumx9nf_OeGIfex_RhvAbNCFHGy9nrHs4P1p7OssgCHemV6QREKYCCrU7ag"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">sT 🦋 Eva</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس صاعد • رتبة I</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>388.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2h ago</span>
+</div>
+</div>
+<!-- #43 Waseem -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="وسيم" data-power="382">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">43</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Charming swordsman avatar with oriental dagger" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCliSX0lnOZh1eboLsBGT8ePNoJeaae1l3NUOk1cxMokbLijlMxn8g_oPs65BK7CThcZfTgku8w0_WvLrW_5i-XWlexJgcy3TYv0yRK-gASoBfmRFbzZuzh5ydzMp4mdqwWD1H3vTpw1q_q9yTgGc5uS4OCP2cH8Hd3_CQ4RHqymWip-D6bjSsDb4LregapBRnwL4CGoSXEwRzJxhJ22ThwPMsLEZzlW_JJcbGNb2p6htRSjul9025u"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">وسيم الشامي ᴰᴺ</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس صاعد • رتبة I</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>382.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">6h ago</span>
+</div>
+</div>
+<!-- #44 Yasooo -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="yasooo" data-power="314">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">44</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Anime dreamer cloud avatar with gentle blue tones" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCuUgBFoAbzLsAFM73N2nqZkwbcUPxkzsAUuN_lymWYYhSmL8gmbIOLmPk0E0nF8uBp3FVAPouOwtHl2u5F4CUpdt6eH6spzvr6G4mxQWKZl8TkHK9z1oMlbxyhc5g9ODDC4T_jpPCdZXFb0TjOR7zS1Cd5OKR-Eg9rkkZq5doGk-_N5g7YF3rxyvu0egzPnvuZ-m14ms_XUKRpC71y1zXH9juKFAxmLVpbtwVawWHz0juPfEerr7CB"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">☁️╎Yasooo</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس صاعد • رتبة I</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>314.1M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1d ago</span>
+</div>
+</div>
+<!-- #45 Malak -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="malak" data-power="266">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">45</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Angelic wings avatar portrait in fantasy light" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBsOggAOMevwWRUOi6lvdqkltfEGZ4Oq-UH0oPsmhEFF0MlylyPPAlrHmHcX1aRUxKVdjsQU3nVpclzvVj4A1sjsnF_ahicDhMYz7bUHU7-BX_lwob8nKn8LK54FuvANfwqoU4dAp2a4NZghkwrThnGtt_d52ZMQI8VuS7FFAuftDfUOnZ8DzZDpqm-YIJIWFaOF-7Q1pvwklJHUNyUYRwV9H7Q1Wr78DOCDlfex2KjSZjiQPTG39sG"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">⋞Malak⋟</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس متدرب</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>266.4M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">1d ago</span>
+</div>
+</div>
+<!-- #46 Faisal -->
+<div class="member-card bg-surface-container-low hover:bg-surface-container p-space-sm rounded-2xl flex items-center justify-between gap-space-sm shadow-md transition-all" data-name="faisal" data-power="192">
+<div class="flex items-center gap-space-sm min-w-0">
+<div class="w-8 h-8 rounded-lg bg-surface-container-highest text-on-surface-variant flex items-center justify-center font-title-md text-title-md font-bold shrink-0">46</div>
+<div class="relative w-12 h-12 rounded-full overflow-hidden bg-surface-container shrink-0">
+<img class="w-full h-full object-cover" data-alt="Heroic young knight avatar holding oceanic spear" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCmaW6cbeY2xmpmtltKZQ4cDkyM0S-c5RS-hMEYaKIgAcf3bX-rGAcWnqWZGeSVX6OzOMOj4Xf7X2Nmb7aHk6iMJ3Lyr-tXTo65jo2MmwpUlg6YRYFiGSqKhi0XDKPcWxd6C0mtGUXCcO6f6Wg-sx03dh6KyMG-K8HageFGRxEbsAq7MUbSzCOYF6cT_RU1VWzohBte-eVx7WqhxPAJcLJWy6kyufOz-7mCo7GRPN1QkuJSxESWCvh3"/>
+</div>
+<div class="flex flex-col min-w-0">
+<span class="font-title-sm text-title-sm text-on-surface font-bold truncate">FAISAL</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">فارس متدرب</span>
+</div>
+</div>
+<div class="flex flex-col items-end shrink-0">
+<div class="flex items-center gap-1 font-headline-sm text-headline-sm text-on-surface font-bold">
+<span class="material-symbols-outlined text-[18px] text-primary">sports_martial_arts</span>
+<span>192.8M</span>
+</div>
+<span class="font-label-sm text-label-sm text-on-surface-variant">2d ago</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 4. إحصائيات القوة وتوزيع الفيالق (ANALYTICS & POWER DISTRIBUTION) -->
+<section class="w-full px-margin py-space-xl bg-surface-container-lowest/50">
+<div class="w-full flex flex-col mb-space-lg text-right">
+<div class="flex items-center gap-space-xs text-primary mb-1">
+<span class="material-symbols-outlined text-[22px]">insights</span>
+<span class="font-label-lg text-label-lg font-bold">التحليل الحربي</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface font-black">إحصائيات القوة وتوزيع الفيالق</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">رؤية بيانية شاملة لمستويات التسليح والقوة الهجومية لكتائب الفرسان</p>
+</div>
+<div class="grid grid-cols-1 lg:grid-cols-3 gap-space-md">
+<!-- Tier Distribution Bars -->
+<div class="lg:col-span-2 bg-surface-container-low p-space-lg rounded-2xl flex flex-col gap-space-md shadow-lg">
+<span class="font-title-md text-title-md text-on-surface font-bold">توزيع القوى بين الرتب القتالية</span>
+<!-- Bar 1: Titans -->
+<div class="flex flex-col gap-1">
+<div class="flex justify-between items-center text-sm">
+<span class="font-title-sm text-title-sm text-primary font-bold">فئة الجبابرة (+1B)</span>
+<span class="font-label-md text-label-md text-on-surface">2 أبطال (4.3%)</span>
+</div>
+<div class="w-full h-3 rounded-full bg-surface-container overflow-hidden">
+<div class="h-full bg-gradient-to-r from-primary to-primary-container rounded-full" style="width: 25%"></div>
+</div>
+</div>
+<!-- Bar 2: Advanced Elite -->
+<div class="flex flex-col gap-1">
+<div class="flex justify-between items-center text-sm">
+<span class="font-title-sm text-title-sm text-secondary font-bold">فئة النخبة المتقدمة (600M - 999M)</span>
+<span class="font-label-md text-label-md text-on-surface">18 مقاتلاً (39.1%)</span>
+</div>
+<div class="w-full h-3 rounded-full bg-surface-container overflow-hidden">
+<div class="h-full bg-secondary rounded-full" style="width: 75%"></div>
+</div>
+</div>
+<!-- Bar 3: Veteran Warriors -->
+<div class="flex flex-col gap-1">
+<div class="flex justify-between items-center text-sm">
+<span class="font-title-sm text-title-sm text-on-surface font-bold">فئة المحاربين المخضرمين (400M - 599M)</span>
+<span class="font-label-md text-label-md text-on-surface">21 مقاتلاً (45.6%)</span>
+</div>
+<div class="w-full h-3 rounded-full bg-surface-container overflow-hidden">
+<div class="h-full bg-surface-container-highest rounded-full" style="width: 90%"></div>
+</div>
+</div>
+<!-- Bar 4: Rising Knights -->
+<div class="flex flex-col gap-1">
+<div class="flex justify-between items-center text-sm">
+<span class="font-title-sm text-title-sm text-on-surface-variant font-bold">فئة الفرسان الصاعدين (&lt;400M)</span>
+<span class="font-label-md text-label-md text-on-surface">5 مقاتلين (10.8%)</span>
+</div>
+<div class="w-full h-3 rounded-full bg-surface-container overflow-hidden">
+<div class="h-full bg-outline-variant rounded-full" style="width: 18%"></div>
+</div>
+</div>
+<div class="mt-space-sm pt-space-sm bg-surface-container/60 p-space-sm rounded-xl flex items-center justify-between text-right">
+<div class="flex items-center gap-2 text-secondary">
+<span class="material-symbols-outlined text-[20px]">bolt</span>
+<span class="font-title-sm text-title-sm font-bold">نسبة الحضور في حروب الحصون:</span>
+</div>
+<span class="font-headline-sm text-headline-sm text-primary font-black">98.4%</span>
+</div>
+</div>
+<!-- Quick Metrics Gauges -->
+<div class="bg-surface-container-low p-space-lg rounded-2xl flex flex-col justify-between shadow-lg">
+<span class="font-title-md text-title-md text-on-surface font-bold mb-space-sm">مؤشرات الجاهزية التكتيكية</span>
+<div class="flex flex-col items-center justify-center my-space-md text-center">
+<div class="relative w-36 h-36 flex items-center justify-center">
+<svg class="w-full h-full -rotate-90" viewbox="0 0 36 36">
+<path class="text-surface-container" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-width="3"></path>
+<path class="text-primary" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-dasharray="88, 100" stroke-linecap="round" stroke-width="3"></path>
+</svg>
+<div class="absolute flex flex-col items-center">
+<span class="font-headline-lg text-headline-lg text-primary font-black">610M</span>
+<span class="font-label-sm text-label-sm text-on-surface-variant">متوسط القوة</span>
+</div>
+</div>
+<span class="font-body-md text-body-md text-on-surface mt-space-sm font-semibold">معدل قوة الفرد الواحد في KNIGHTS</span>
+</div>
+<div class="grid grid-cols-2 gap-2 text-center pt-space-xs">
+<div class="bg-surface-container p-2 rounded-xl">
+<span class="font-label-sm text-label-sm text-on-surface-variant block">النشاط اليومي</span>
+<span class="font-title-md text-title-md text-secondary font-bold">99%</span>
+</div>
+<div class="bg-surface-container p-2 rounded-xl">
+<span class="font-label-sm text-label-sm text-on-surface-variant block">معدل الفوز</span>
+<span class="font-title-md text-title-md text-primary font-bold">100%</span>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- 5. ميثاق الشرف وقوانين التحالف (RULES & CODE OF HONOR) -->
+<section class="w-full px-margin py-space-xl">
+<div class="w-full flex flex-col mb-space-lg text-right">
+<div class="flex items-center gap-space-xs text-primary mb-1">
+<span class="material-symbols-outlined text-[22px]">gavel</span>
+<span class="font-label-lg text-label-lg font-bold">الدستور العسكري</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface font-black">ميثاق شرف فرسان البحار</h2>
+<p class="font-body-md text-body-md text-on-surface-variant">قوانين حتمية يلتزم بها كل من يحمل وسم KNIGHTS في خوادم ملك البحار</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-space-md">
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col gap-space-xs shadow-md group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest flex items-center justify-center text-primary mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">alarm_on</span>
+</div>
+<span class="font-title-sm text-title-sm text-primary font-bold">1. الجاهزية لحروب الجزر</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">التواجد الإجباري في حروب الجزر والبحار الأسبوعية المقررة وفق تعميمات مجلس القيادة، دون أي تهاون أو غياب غير مبرر.</p>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col gap-space-xs shadow-md group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest text-secondary mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">diversity_3</span>
+</div>
+<span class="font-title-sm text-title-sm text-secondary font-bold">2. أخوة السلاح والاحترام</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">الاحترام المطلق لجميع فرسان التحالف ومساندة الأعضاء الصاعدين في المهمات اليومية وتقديم الدعم العسكري لأسطولنا المشترك.</p>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col gap-space-xs shadow-md group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest text-primary-fixed mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">trending_up</span>
+</div>
+<span class="font-title-sm text-title-sm text-primary font-bold">3. التطوير التصاعدي المستمر</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">الحفاظ على الحد الأدنى لتطوير القوة القتالية أسبوعياً، لضمان استمرار سيادة التحالف وهيمنته الشاملة على عرش السيرفر.</p>
+</div>
+<div class="bg-surface-container-low p-space-md rounded-2xl flex flex-col gap-space-xs shadow-md group hover:bg-surface-container transition-all">
+<div class="w-10 h-10 rounded-xl bg-surface-container-highest text-error mb-space-xs">
+<span class="material-symbols-outlined text-[24px]">shield</span>
+</div>
+<span class="font-title-sm text-title-sm text-error font-bold">4. الانضباط لأوامر القيادة</span>
+<p class="font-body-sm text-body-sm text-on-surface-variant">طاعة التعليمات التكتيكية الصادرة من القائد العام والنواب أثناء معارك السيرفر لتفادي أي ثغرات دفاعية في الأسطول.</p>
+</div>
+</div>
+</section>
+<!-- 6. بوابة التجنيد والانضمام (RECRUITMENT CTA) -->
+<section class="w-full px-margin py-space-xl bg-surface-container-lowest relative overflow-hidden" id="recruitment-section">
+<div class="absolute -bottom-20 -left-20 w-80 h-80 rounded-full bg-primary/10 blur-3xl pointer-events-none"></div>
+<div class="max-w-3xl mx-auto bg-surface-container-low p-space-lg md:p-space-xl rounded-3xl shadow-2xl relative z-10 text-right">
+<div class="flex items-center gap-space-xs text-primary mb-2">
+<span class="material-symbols-outlined text-[22px]">how_to_reg</span>
+<span class="font-label-lg text-label-lg font-bold">بوابة الانضمام للنخبة</span>
+</div>
+<h2 class="font-headline-lg text-headline-lg text-on-surface font-black mb-1">طلب الانتساب إلى تحالف KNIGHTS</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mb-space-lg">
+        نقبل فقط المحاربين أصحاب القوة العالية الذين يمتلكون الشغف بالسيطرة والروح القتالية. املأ بياناتك ليتم فحص حسابك من قِبل مجلس القيادة.
+      </p>
+<form class="flex flex-col gap-space-md" id="recruitmentForm" onsubmit="event.preventDefault(); document.getElementById('recruitSuccessAlert').classList.remove('hidden');">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<div class="flex flex-col gap-1">
+<label class="font-label-md text-label-md text-on-surface font-semibold">اسم المستخدم في اللعبة (Nickname)</label>
+<input class="w-full bg-surface-container text-on-surface font-body-sm text-body-sm px-4 py-3 rounded-xl outline-none focus:bg-surface-container-highest transition-all shadow-inner" placeholder="مثال: ⚔️ Alexander" required="" type="text"/>
+</div>
+<div class="flex flex-col gap-1">
+<label class="font-label-md text-label-md text-on-surface font-semibold">معرّف الحساب في WePlay (Player ID)</label>
+<input class="w-full bg-surface-container text-on-surface font-body-sm text-body-sm px-4 py-3 rounded-xl outline-none focus:bg-surface-container-highest transition-all shadow-inner" placeholder="مثال: 82947192" required="" type="text"/>
+</div>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-2 gap-space-md">
+<div class="flex flex-col gap-1">
+<label class="font-label-md text-label-md text-on-surface font-semibold">القوة القتالية الحالية (Combat Power)</label>
+<input class="w-full bg-surface-container text-on-surface font-body-sm text-body-sm px-4 py-3 rounded-xl outline-none focus:bg-surface-container-highest transition-all shadow-inner" placeholder="مثال: 550M أو +1B" required="" type="text"/>
+</div>
+<div class="flex flex-col gap-1">
+<label class="font-label-md text-label-md text-on-surface font-semibold">معرف الديسكورد أو التيليجرام للتواصل</label>
+<input class="w-full bg-surface-container text-on-surface font-body-sm text-body-sm px-4 py-3 rounded-xl outline-none focus:bg-surface-container-highest transition-all shadow-inner" placeholder="@username" type="text"/>
+</div>
+</div>
+<button class="mt-space-sm w-full bg-primary-container text-on-primary-container font-title-md text-title-md font-extrabold py-3.5 rounded-xl shadow-[0_0_20px_rgba(245,158,11,0.4)] hover:brightness-110 active:scale-[0.99] transition-all flex items-center justify-center gap-2" type="submit">
+<span class="material-symbols-outlined text-[22px]">send</span>
+<span>إرسال طلب الانضمام إلى قيادة الفرسان</span>
+</button>
+<div class="hidden bg-secondary-container text-on-secondary-container p-space-md rounded-xl font-title-sm text-title-sm font-bold flex items-center gap-2 shadow-md" id="recruitSuccessAlert">
+<span class="material-symbols-outlined text-[24px]">verified</span>
+<span>تم إرسال طلبك بنجاح! سيتم مراجعة قوتك والتواصل معك عبر معرّف اللعبة خلال 24 ساعة.</span>
+</div>
+</form>
+</div>
+</section>
+</div>
+<script>
+  (function() {
+    const searchInput = document.getElementById('memberSearchInput');
+    const memberCards = document.querySelectorAll('.member-card');
+    const filterButtons = document.querySelectorAll('.roster-filter-btn');
+
+    let currentFilter = 'all';
+    let currentSearch = '';
+
+    function applyFilterAndSearch() {
+      memberCards.forEach(card => {
+        const name = (card.dataset.name || '').toLowerCase();
+        const power = parseFloat(card.dataset.power || '0');
+        
+        let matchesFilter = true;
+        if (currentFilter === 'billion') {
+          matchesFilter = power >= 1000;
+        } else if (currentFilter === 'elite') {
+          matchesFilter = power >= 600 && power < 1000;
+        } else if (currentFilter === 'legion') {
+          matchesFilter = power >= 500 && power < 600;
+        } else if (currentFilter === 'vanguard') {
+          matchesFilter = power < 500;
+        }
+
+        const matchesSearch = !currentSearch || name.includes(currentSearch);
+
+        if (matchesFilter && matchesSearch) {
+          card.classList.remove('hidden');
+          card.classList.add('flex');
+        } else {
+          card.classList.add('hidden');
+          card.classList.remove('flex');
+        }
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        currentSearch = e.target.value.trim().toLowerCase();
+        applyFilterAndSearch();
+      });
+    }
+
+    filterButtons.forEach(btn => {
+      btn.addEventListener('click', () => {
+        filterButtons.forEach(b => {
+          b.classList.remove('bg-primary-container', 'text-on-primary-container');
+          b.classList.add('bg-surface-container-high', 'text-on-surface-variant');
+        });
+
+        btn.classList.add('bg-primary-container', 'text-on-primary-container');
+        btn.classList.remove('bg-surface-container-high', 'text-on-surface-variant');
+
+        currentFilter = btn.dataset.filter;
+        applyFilterAndSearch();
+      });
+    });
+  })();
+</script></main><footer class="w-full bg-surface-container-lowest pt-space-xl pb-space-lg mt-auto shadow-[0_1px_8px_rgba(0,0,0,0.04)]"><div class="w-full px-margin"><div class="grid grid-cols-1 md:grid-cols-4 gap-space-xl pb-space-xl"><div class="md:col-span-2 flex flex-col gap-space-sm"><div class="flex items-center gap-space-sm"><img alt="Knights Alliance Crest" class="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuD4yMQ5xF9lYBvuJlkhsQjyjb1m-wyYtZ_-wIi2OcQZxCq3f3wTt3_3-427pOd-N7uodhO8ZDFwH3B6vHt5QvDzhTcqZxROdclfGasagF1wWwvxDfp0DIqyqLrirlM9UuW4gj-3Sh3H0lR2g5O7Yf6vqvtQq8gCFRJIRs2jvkL9J4WVD3JSUP_E7_sc5SwD4K1LW5tDOXq_55tIjOzWPU5wQ6KF1iGuS7YH9iftY3_eXzOtHhvOtyK1"/><span class="font-title-lg text-title-lg text-primary">تحالف الفرسان | KNIGHTS</span></div><p class="font-body-md text-body-md text-on-surface-variant max-w-lg">الأعظم في مياه WePlay ملك البحار. سيادة أسطول الفرسان تحت راية النصر الخالد والولاء العسكري المطلق. حيث يلتقي عمق المحيط بمجد الفولاذ والذهب.</p><div class="flex items-center gap-space-xs pt-space-xs"><span class="material-symbols-outlined text-secondary text-[18px]">military_tech</span><span class="font-label-md text-label-md text-secondary">شعارنا: «سادة الأعماق، ملوك البحار بلا منازع»</span></div></div><div class="flex flex-col gap-space-sm"><span class="font-title-md text-title-md text-primary">الوصول السريع</span><ul class="flex flex-col gap-space-xs"><li class="font-body-sm text-body-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer">قاعة الشرف والأمراء</li><li class="font-body-sm text-body-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer">مخطط حرب الأساطيل</li><li class="font-body-sm text-body-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer">سجل الغنائم الإمبراطورية</li><li class="font-body-sm text-body-sm text-on-surface-variant hover:text-primary transition-colors cursor-pointer">شروط الانضمام للنخبة</li></ul></div><div class="flex flex-col gap-space-sm"><span class="font-title-md text-title-md text-primary">مجلس القيادة والروابط</span><p class="font-body-sm text-body-sm text-on-surface-variant">غرف العمليات العسكرية وقنوات التنسيق الحربي على WePlay ومجتمعات الفرسان الرسمية.</p><div class="flex items-center gap-space-sm pt-space-xs"><a class="w-10 h-10 rounded-xl bg-surface-container flex items-center justify-center text-on-surface hover:bg-primary-container hover:text-on-primary-container transition-all" href="#"><span class="material-symbols-outlined text-[20px]">hub</span></a><a class="w-10 h-10 rounded-xl bg-surface-container flex items-center justify-center text-on-surface hover:bg-primary-container hover:text-on-primary-container transition-all" href="#"><span class="material-symbols-outlined text-[20px]">forum</span></a><a class="w-10 h-10 rounded-xl bg-surface-container flex items-center justify-center text-on-surface hover:bg-primary-container hover:text-on-primary-container transition-all" href="#"><span class="material-symbols-outlined text-[20px]">shield</span></a></div></div></div><div class="pt-space-lg flex flex-col sm:flex-row items-center justify-between gap-space-md text-center sm:text-right"><span class="font-body-sm text-body-sm text-on-surface-variant">© 2025 تحالف الفرسان (KNIGHTS Alliance) - جميع الحقوق محفوظة لأسطول ملك البحار</span><div class="flex items-center gap-space-md"><span class="font-label-sm text-label-sm text-secondary-fixed-dim">خادم النخبة WePlay</span><span class="w-1.5 h-1.5 rounded-full bg-secondary"></span><span class="font-label-sm text-label-sm text-on-surface-variant">حالة الأسطول: في تأهب قتالي كامل</span></div></div></div></footer></body></html>
